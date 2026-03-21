@@ -38,7 +38,7 @@ To write a Python program to get the name, age, and ID of a person and display t
 
 ### PROGRAM
 
-```
+```python
 # Reg.No-212222060013
 # Name- AKSHAIYAN S
 class Parent:
